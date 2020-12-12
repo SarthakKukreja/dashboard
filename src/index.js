@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 import {
-  Button , Row, Col, Card, CardBody, CardTitle, CardLink , CardText, CardImg
+  Row, Col, Card, CardBody, CardTitle, CardLink , CardText, CardImg
 } from 'reactstrap';
 import './index.css'
 
